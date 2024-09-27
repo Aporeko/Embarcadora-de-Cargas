@@ -70,7 +70,8 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Atualizações KPI - Conforme as necessidades do Cliente
 
-https://fatec-team-l189f68c.atlassian.net/jira/software/projects/API/boards/2/backlog?selectedIssue=API-7&atlOrigin=eyJpIjoiNGE4OTM5NzI5ZTk4NDZjYmEwYjk3ZDBlYWYwMmRhZjMiLCJwIjoiaiJ9
+![jira (2)](https://github.com/user-attachments/assets/d1b8a3e2-25b7-45b7-8881-5dfceb3f47a9)
+
 
 # Objetivo
 
