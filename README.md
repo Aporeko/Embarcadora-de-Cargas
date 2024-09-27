@@ -35,12 +35,6 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Integração SQL
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Relatório
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Atualização GitHub
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Garantir que Toda a Equipe Está Familiarizada com o Python
-
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Iniciar a correlação entre o SQL e o Phyton (Part.1)
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Mensurar as Principais Necessidades do Cliente
@@ -52,10 +46,6 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Power BI - Indicadores
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Mensurar as Principais Necessidades do Cliente
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Relatório
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Atualização GitHub
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Andamento na correlação entre o SQL e o Python (Part.2)
 
@@ -75,10 +65,6 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Produto Final
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Mensurar as Principais Necessidades do Cliente
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Relatório
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Finalização GitHub
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Finalizar a correlação entre o SQL e o Python
 
