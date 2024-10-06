@@ -35,9 +35,11 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Integração SQL
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Iniciar a correlação entre o SQL e o Phyton (Part.1)
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Iniciar a correlação entre o SQL e o Phyton (Conceitos)
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Mensurar as Principais Necessidades do Cliente
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Mensurar as Principais Necessidades do Cliente
+
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Estruturar Design para o Power BI
 
 
 ## Sprint 3
@@ -50,8 +52,6 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Andamento na correlação entre o SQL e o Python (Part.2)
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Minimização do Custo Total do Transporte
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Estruturar Design para o Power BI
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Produtividade Mensal dos Veículos (Relação Entre Outputs e Inputs)
 
