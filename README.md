@@ -45,30 +45,24 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 ## Sprint 3
 **_MVP - KPI_** 18 out - 8 nov (10 itens)
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Power BI - Indicadores
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Planejamento
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Mensurar as Principais Necessidades do Cliente
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Design
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Andamento na correlação entre o SQL e o Python (Part.2)
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Construção
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Minimização do Custo Total do Transporte
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Produtividade Mensal dos Veículos (Relação Entre Outputs e Inputs)
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Visualização do BI com Custos de Km por Cada Rota (Filtrado por Fábrica)
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Visualização do BI com Evolução dos Custos por Unidade Transportada de Cada Rota
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Garantia
 
 ## Sprint 4
 **_MVP - Otimização_** 8 nov - 29 nov (6 itens)
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Produto Final
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Planejamento
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Mensurar as Principais Necessidades do Cliente
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Design
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Finalizar a correlação entre o SQL e o Python
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Construção
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Atualizações KPI - Conforme as necessidades do Cliente
+![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Garantia
 
 ![jira (2)](https://github.com/user-attachments/assets/d1b8a3e2-25b7-45b7-8881-5dfceb3f47a9)
 
@@ -80,10 +74,10 @@ Para quatro (4) meses, tendo 3 semanas de produção a cada apresentação do pr
 
 Tendo como objetivo principal em cada sprint apresentar o mínimo produto viável (MVP)
 
-SPRINT 1 - BACKLOG DO PRODUTO
-SPRINT 2 - SQL INTEGRADO
-SPRINT 3 - KPI'S
-SPRINT 4 - OTIMIZAÇÃO
+SPRINT 1 - BACKLOG DO PRODUTO;
+SPRINT 2 - KPI'S;
+SPRINT 3 - OTIMIZAÇÃO;
+SPRINT 4 - SQL INTEGRADO;
 
 # Tecnologias utilizadas
 
