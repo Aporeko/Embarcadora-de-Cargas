@@ -31,7 +31,7 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 
 
 ## Sprint 2
-**_MVP - Integração ao SQL_** 27 set - 18 out (6 itens)
+**_MVP - KPIS_** 27 set - 18 out (6 itens)
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Iniciar Integração SQL
 
@@ -43,7 +43,7 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 
 
 ## Sprint 3
-**_MVP - KPI_** 18 out - 8 nov (10 itens)
+**_MVP - Otimização _** 18 out - 8 nov (10 itens)
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Planejamento
 
@@ -54,7 +54,7 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Garantia
 
 ## Sprint 4
-**_MVP - Otimização_** 8 nov - 29 nov (6 itens)
+**_MVP - Integração ao SQL_** 8 nov - 29 nov (6 itens)
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Planejamento
 
