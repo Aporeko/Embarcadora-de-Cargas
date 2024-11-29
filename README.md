@@ -27,9 +27,13 @@ Para quatro (4) meses, tendo 3 semanas de produção a cada apresentação do pr
 Tendo como objetivo principal em cada sprint apresentar o mínimo produto viável (MVP)
 
 SPRINT 1 - BACKLOG DO PRODUTO;
+
 SPRINT 2 - KPI'S;
+
 SPRINT 3 - OTIMIZAÇÃO;
+
 SPRINT 4 - SQL INTEGRADO;
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Backlog
 
