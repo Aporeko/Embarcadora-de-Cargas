@@ -88,5 +88,14 @@ SPRINT 4 - SQL INTEGRADO;
 ![Tecnologias utilizadas](https://github.com/user-attachments/assets/2176ae02-d85f-4ba6-b007-8c96ac6209ef)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# *Links*           
+  
+ 
+ [<img src = "./GITIMAGESlinks/JIRA.png" width="400" >](https://fatec-team-l189f68c.atlassian.net/jira/software/projects/API/boards/2) 
+
+
+
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
 
