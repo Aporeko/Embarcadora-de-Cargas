@@ -93,7 +93,7 @@ SPRINT 4 - SQL INTEGRADO;
 # *Links*           
   
  
- [<img src = ".JIRA.png" width="400" >](https://fatec-team-l189f68c.atlassian.net/jira/software/projects/API/boards/2) 
+ [<img src = "./JIRA.png" width="400" >](https://fatec-team-l189f68c.atlassian.net/jira/software/projects/API/boards/2) 
 
 
 
