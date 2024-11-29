@@ -7,7 +7,8 @@ Analise de Produtividade de veículos, otimização de distribuição e custos d
 * [Backlog](#Backlog)
 * [Objetivo](#objetivo)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-  
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Produto
 
 Apresentado o objetivo de mensuração de custo médio e a distância percorrida
@@ -18,6 +19,19 @@ Conseguindo compartilhar no portifólio online (Github) acompanhando a métrica 
 
 Com um banco de dados relacional (SQL) que demonstre indicadores de otimização através do power bi tendo phyton como prova real da informação
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Objetivo
+
+analise de produtividade de veículos, otimização de distribuição e custo de rotas.
+Para quatro (4) meses, tendo 3 semanas de produção a cada apresentação do progresso do projeto ao cliente, caracterizando cada encontro como Sprints, distribuindo em 4 partes. Sprints 1, 2, 3 e 4.
+
+Tendo como objetivo principal em cada sprint apresentar o mínimo produto viável (MVP)
+
+SPRINT 1 - BACKLOG DO PRODUTO;
+SPRINT 2 - KPI'S;
+SPRINT 3 - OTIMIZAÇÃO;
+SPRINT 4 - SQL INTEGRADO;
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Backlog
 
 ## Sprint 1                                                                                                                                                            
@@ -64,18 +78,7 @@ Com um banco de dados relacional (SQL) que demonstre indicadores de otimização
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Garantia
 
-
-# Objetivo
-
-analise de produtividade de veículos, otimização de distribuição e custo de rotas.
-Para quatro (4) meses, tendo 3 semanas de produção a cada apresentação do progresso do projeto ao cliente, caracterizando cada encontro como Sprints, distribuindo em 4 partes. Sprints 1, 2, 3 e 4.
-
-Tendo como objetivo principal em cada sprint apresentar o mínimo produto viável (MVP)
-
-SPRINT 1 - BACKLOG DO PRODUTO;
-SPRINT 2 - KPI'S;
-SPRINT 3 - OTIMIZAÇÃO;
-SPRINT 4 - SQL INTEGRADO;
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Tecnologias utilizadas
 
