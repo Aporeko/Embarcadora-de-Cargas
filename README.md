@@ -14,14 +14,14 @@ Apresentado o objetivo de mensuração de custo médio e a distância percorrida
 Integrado ao SQL podendo em si consultar os indicadores de otimização no Power BI
 expondo o cenário ideal, ótimo e as possíveis perdas, também a previsão de custos 
 
-Conseguindo compartilhar no portifólio online (Github) acompanhando a métrica de desenvolvimento através do painel online de atividades (JiraSoftware)
+Conseguindo compartilhar no portifólio online (GitHub) acompanhando a métrica de desenvolvimento através do painel online de atividades (JiraSoftware)
 
-Com um banco de dados relacional (SQL) que demonstre indicadores de otimização através do power bi tendo phyton como prova real da informação
+Com um banco de dados relacional (SQL) que demonstre indicadores de otimização através do power BI tendo Phyton como prova real da informação
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Objetivo
 
-analise de produtividade de veículos, otimização de distribuição e custo de rotas.
+Análise de produtividade de veículos, otimização de distribuição e custo de rotas.
 Para quatro (4) meses, tendo 3 semanas de produção a cada apresentação do progresso do projeto ao cliente, caracterizando cada encontro como Sprints, distribuindo em 4 partes. Sprints 1, 2, 3 e 4.
 
 Tendo como objetivo principal em cada sprint apresentar o mínimo produto viável (MVP)
