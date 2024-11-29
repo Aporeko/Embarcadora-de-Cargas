@@ -45,6 +45,8 @@ SPRINT 4 - SQL INTEGRADO;
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Mensurar as Principais Necessidades do Cliente
 
+>Backlog da Sprint
+![image](https://github.com/user-attachments/assets/b8c59b6a-1e06-41c1-ba73-12d3a78f5e56)
 
 
 ## Sprint 2
