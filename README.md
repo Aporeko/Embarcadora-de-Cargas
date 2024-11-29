@@ -60,6 +60,9 @@ SPRINT 4 - SQL INTEGRADO;
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Estruturar Design para o Power BI
 
+>Backlog da Sprint
+![image](https://github.com/user-attachments/assets/c227ba08-ea2b-4177-b14a-1a1bc7cdf4ab)
+
 
 ## Sprint 3
 **_MVP - Otimização _** 18 out - 8 nov (10 itens)
@@ -72,6 +75,10 @@ SPRINT 4 - SQL INTEGRADO;
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Garantia
 
+>Backlog da Sprint
+![image](https://github.com/user-attachments/assets/ffed0ccf-37e8-4d57-b3b4-2a00c87f5fc8)
+
+
 ## Sprint 4
 **_MVP - Integração ao SQL_** 8 nov - 29 nov (6 itens)
 
@@ -82,6 +89,11 @@ SPRINT 4 - SQL INTEGRADO;
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Construção
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Garantia
+
+
+>Backlog da Sprint
+>![image](https://github.com/user-attachments/assets/743e7050-7b41-40d9-9147-f5f8b31d3be9)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
