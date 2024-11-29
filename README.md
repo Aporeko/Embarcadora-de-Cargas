@@ -50,7 +50,7 @@ SPRINT 4 - SQL INTEGRADO;
 
 
 ## Sprint 2
-**_MVP - KPIS_** 27 set - 18 out (6 itens)
+**_MVP - KPIs_** 27 set - 18 out (6 itens)
 
 ![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Iniciar Integração SQL
 
