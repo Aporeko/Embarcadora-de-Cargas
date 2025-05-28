@@ -23,15 +23,9 @@
 | Team Member    | Fábia   | [![Linkedin Badge](
 | Team Member    | Mariana | [![Linkedin Badge](
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Produto
+# Objetivo do Projeto
 
-Apresentado o objetivo de mensuração de custo médio e a distância percorrida
-Integrado ao SQL podendo em si consultar os indicadores de otimização no Power BI
-expondo o cenário ideal, ótimo e as possíveis perdas, também a previsão de custos 
-
-Conseguindo compartilhar no portifólio online (GitHub) acompanhando a métrica de desenvolvimento através do painel online de atividades (JiraSoftware)
-
-Com um banco de dados relacional (SQL) que demonstre indicadores de otimização através do power BI tendo Phyton como prova real da informação
+aaa
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Objetivo
