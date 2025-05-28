@@ -10,7 +10,7 @@
 * [Tecnologias Ultilizadas](#Tecnologias-Ultilizadas)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Backlog da Equipe](#Backlog-da-Equipe)
-* [Burndown](#Burndow)
+* [Burndown](#Burndown)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API)
