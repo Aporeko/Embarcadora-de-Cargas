@@ -14,12 +14,14 @@
 # Projeto (API)
 # Equipe
 
-![Baner1](https://github.com/user-attachments/assets/a6917217-4fb4-4113-bd5b-e16942c03b26)
-<a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-blue"/></a></p>
-* [Produto](#Produto)
-* [Backlog](#Backlog)
-* [Objetivo](#objetivo)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+| Função         | Nome                                       |       Linkedin & Github                                    |
+| :-------------:| :-----------------------------------------:| :---------------------------------------------------------:|
+| Product Owner  | Gabriel | [![Linkedin Badge](
+| Scrum Master   | Pedro   | [![Linkedin Badge](
+| Team Member    | André   | [![Linkedin Badge](
+| Team Member    | Denise  | [![Linkedin Badge](
+| Team Member    | Fábia   | [![Linkedin Badge](
+| Team Member    | Mariana | [![Linkedin Badge](
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Produto
 
