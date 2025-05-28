@@ -40,82 +40,55 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Backlog
+# Backlog do produto
 
-## Sprint 1                                                                                                                                                            
-**_MPV - Backlog_**  30 ago - 27 set (9 itens)                                                                                                                                                                    
-
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Backlog do Produto
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Mensurar as Principais Necessidades do Cliente
-
->Backlog da Sprint
-![image](https://github.com/user-attachments/assets/b8c59b6a-1e06-41c1-ba73-12d3a78f5e56)
-
+## Sprint 1
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
 
 ## Sprint 2
-**_MVP - KPIs_** 27 set - 18 out (6 itens)
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Iniciar Integração SQL
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Iniciar a correlação entre o SQL e o Phyton (Conceitos)
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Mensurar as Principais Necessidades do Cliente
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Estruturar Design para o Power BI
-
->Backlog da Sprint
-![image](https://github.com/user-attachments/assets/c227ba08-ea2b-4177-b14a-1a1bc7cdf4ab)
-
-
+- [ ] Documento passo a passo;
+- [ ] Vídeo passo a passo;
+- [ ] Treinamento com os professores;
+- [ ] Treinamento com os alunos;
+- [ ] Monitoramento e ajustes.
+      
 ## Sprint 3
-**_MVP - Otimização _** 18 out - 8 nov (10 itens)
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Planejamento
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Design
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Construção
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Garantia
-
->Backlog da Sprint
-![image](https://github.com/user-attachments/assets/ffed0ccf-37e8-4d57-b3b4-2a00c87f5fc8)
-
-
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+      
 ## Sprint 4
-**_MVP - Integração ao SQL_** 8 nov - 29 nov (6 itens)
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Planejamento
+# Registro das Sprints
 
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/d082e836-9baa-4997-be77-0a0c75069aa5)  Design
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Construção
-
-![image](https://github.com/LogThink1/Projeto-integrador-ll/assets/144967585/2e5cf6e3-6531-4c0b-ab6d-f226b4f21bb9)  Garantia
-
-
->Backlog da Sprint
->![image](https://github.com/user-attachments/assets/743e7050-7b41-40d9-9147-f5f8b31d3be9)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Tecnologias utilizadas
-
-![Tecnologias utilizadas](https://github.com/user-attachments/assets/2176ae02-d85f-4ba6-b007-8c96ac6209ef)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# *Links*           
-  
- 
- [<img src = "./JIRA.png" width="400" >](https://fatec-team-l189f68c.atlassian.net/jira/software/projects/API/boards/2) 
-
-
-
-<p align="right"> <a href="#top">Voltar ao topo</a> </p>
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
+|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
+|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
+|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
+|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
 
