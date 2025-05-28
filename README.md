@@ -40,7 +40,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
-# Backlog do produto (User Storys)
+# Backlog do Produto (User Storys)
+| Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
+|:--------:|:--------:| :-------:|:--------:|
+| Planejar Desenvolvimento do Projeto | Revisar código vendo suas Estruturas de Dados | Analisar os tempos de operação portuária | Documentar adequadamente DoR e DoD
+| Levantar e Registrar Requisitos usando técnicas de Métodos Ágeis e Tradicionais|  Implementar Aplicação usando conceitos de orientação a objetos (ORM) |  Avaliar a eficiencia entre terminais de operação | Analisar os top motivos de paradas de operação registradas |
+
+# Backlog da Equipe (JIRA)
 
 ## Sprint 1
 - [ ] Defina o propósito do template;
