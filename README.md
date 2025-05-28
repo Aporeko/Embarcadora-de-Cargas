@@ -48,17 +48,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Como administrador, queremos levantar a quantidade de produtos importados ou exportados em cada doca portuária e gerar relatórios comparativos. | Como administrador, queremos criar um ranking portuário do ano de 2023, para analisar a eficiência dos portos com base em métricas padronizadas. | Como administrador, queremos analisar os principais motivos de paradas operacionais registradas, cruzando dados para encontrar a causa raiz. | fdsfds |
 
 # Backlog da Equipe
-## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
 ## Sprint 2
 - [ ] Documento passo a passo;
 - [ ] Vídeo passo a passo;
@@ -77,7 +66,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
-## Sprint 4
+## Feira de Soluções
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
 - [ ] Esboce o layout;
