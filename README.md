@@ -27,12 +27,11 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-
-Centralizar os trabalhos e projetos;
-Organizar e estruturar as informações;
-Versionar e controlar as alterações;
-Facilitar o compartilhamento e feedback;
-Desenvolver habilidades técnicas.
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
 
 # Tecnologias Ultilizadas
 
