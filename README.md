@@ -46,15 +46,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Sprint 2 |
 |:--------:|
 | Como administrador, queremos levantar a quantidade de produtos importados ou exportados em cada doca portuária e gerar relatórios comparativos. |
-|:--------:|
+
 
 | Sprint 3 |
 |:--------:|
 | Como administrador, queremos criar um ranking portuário do ano de 2023, para analisar a eficiência dos portos com base em métricas padronizadas. |
-|:--------:|
 
-|:--------:|
+
 | Feira de Soluções |
+|:--------:|
 | Como administrador, queremos analisar os principais motivos de paradas operacionais registradas, cruzando dados para encontrar a causa raiz. | 
 
 # Backlog da Equipe
