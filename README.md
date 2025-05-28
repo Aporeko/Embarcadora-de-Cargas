@@ -34,19 +34,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Desenvolver habilidades técnicas.
 
 # Tecnologias Ultilizadas
-
-Análise de produtividade de veículos, otimização de distribuição e custo de rotas.
-Para quatro (4) meses, tendo 3 semanas de produção a cada apresentação do progresso do projeto ao cliente, caracterizando cada encontro como Sprints, distribuindo em 4 partes. Sprints 1, 2, 3 e 4.
-
-Tendo como objetivo principal em cada sprint apresentar o mínimo produto viável (MVP)
-
-SPRINT 1 - BACKLOG DO PRODUTO;
-
-SPRINT 2 - KPI'S;
-
-SPRINT 3 - OTIMIZAÇÃO;
-
-SPRINT 4 - SQL INTEGRADO;
+### Tecnologias Específicas/Apoio
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+  
+ ### Tecnologias da Informação
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Backlog
