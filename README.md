@@ -41,14 +41,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
-# Backlog do Produto (User Storys)
+# Backlog do Produto
 
 | Sprint 2 | Sprint 3 | Feira de Soluções |
 |:--------:|:--------:|:-----------------:|
 | Como administrador, queremos levantar a quantidade de produtos importados ou exportados em cada doca portuária e gerar relatórios comparativos. | Como administrador, queremos criar um ranking portuário do ano de 2023, para analisar a eficiência dos portos com base em métricas padronizadas. | Como administrador, queremos analisar os principais motivos de paradas operacionais registradas, cruzando dados para encontrar a causa raiz. | fdsfds |
 
-# Backlog da Equipe (Jira)
-
+# Backlog da Equipe
 ## Sprint 1
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
@@ -88,6 +87,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
+
+# Burndown
 
 # Registro das Sprints
 
