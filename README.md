@@ -22,13 +22,12 @@
 | Team Member    | Denise  | [![Linkedin Badge](
 | Team Member    | Fábia   | [![Linkedin Badge](
 | Team Member    | Mariana | [![Linkedin Badge](
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Objetivo do Projeto
 
 aaa
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Objetivo
+# Tecnologias Ultilizadas
 
 Análise de produtividade de veículos, otimização de distribuição e custo de rotas.
 Para quatro (4) meses, tendo 3 semanas de produção a cada apresentação do progresso do projeto ao cliente, caracterizando cada encontro como Sprints, distribuindo em 4 partes. Sprints 1, 2, 3 e 4.
