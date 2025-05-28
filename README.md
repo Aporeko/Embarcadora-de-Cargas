@@ -4,7 +4,15 @@
 
 # Índice
 
-Analise de Produtividade de veículos, otimização de distribuição e custos de rotas.
+* [Projeto](#projeto- (API))
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Sprints](#Sprints)
+* [Burndown](#Burndow)
+* [Backlog do produto](#Backlog-do-produto)
+
+# Projeto (API)
+# Equipe
 
 ![Baner1](https://github.com/user-attachments/assets/a6917217-4fb4-4113-bd5b-e16942c03b26)
 <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-blue"/></a></p>
