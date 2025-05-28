@@ -43,7 +43,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do Produto (User Storys)
 | Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
 |:--------:|:--------:| :-------:|:--------:|
-| Planejar Desenvolvimento do Projeto | Revisar código vendo suas Estruturas de Dados | Analisar os tempos de operação portuária | Documentar adequadamente DoR e DoD
+| Planejar Desenvolvimento do Projeto | Como administrador, queremos levantar a quantidade de produtos importados ou exportados em cada doca portuária e gerar relatórios comparativos. | Analisar os tempos de operação portuária | Documentar adequadamente DoR e DoD
 | Levantar e Registrar Requisitos usando técnicas de Métodos Ágeis e Tradicionais|  Implementar Aplicação usando conceitos de orientação a objetos (ORM) |  Avaliar a eficiencia entre terminais de operação | Analisar os top motivos de paradas de operação registradas |
 
 # Backlog da Equipe (Jira)
