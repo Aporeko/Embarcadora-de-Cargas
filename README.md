@@ -13,6 +13,7 @@
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API)
+Descrição da demanda realizada pelo parceiro acadêmico.
 # Equipe
 
 | Função         | Nome                                       |       Linkedin & Github                                    |
