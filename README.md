@@ -9,6 +9,7 @@
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Ultilizadas](#Tecnologias-Ultilizadas)
 * [Backlog do Produto](#Backlog-do-Produto)
+* [Backlog da Equipe](#Backlog-da-Equipe)
 * [Burndown](#Burndow)
 * [Backlog do produto](#Backlog-do-produto)
 
