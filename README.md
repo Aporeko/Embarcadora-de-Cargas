@@ -11,7 +11,7 @@
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Backlog da Equipe](#Backlog-da-Equipe)
 * [Burndown](#Burndow)
-* [Backlog do produto](#Backlog-do-produto)
+* [Registro das Sprints](#Registro-das-Sprints)
 
 # Projeto (API)
 Descrição da demanda realizada pelo parceiro acadêmico.
@@ -89,6 +89,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Finalize e aprovação.
 
 # Burndown
+kjk
 
 # Registro das Sprints
 
