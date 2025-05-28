@@ -40,7 +40,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
-# Backlog do produto
+# Backlog do produto (User Storys)
 
 ## Sprint 1
 - [ ] Defina o propósito do template;
