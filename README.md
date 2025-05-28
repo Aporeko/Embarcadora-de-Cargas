@@ -7,6 +7,7 @@
 * [Projeto](#projeto- (API))
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias Ultilizadas](#Tecnologias-Ultilizadas)
 * [Sprints](#Sprints)
 * [Burndown](#Burndow)
 * [Backlog do produto](#Backlog-do-produto)
