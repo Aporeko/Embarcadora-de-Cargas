@@ -37,13 +37,16 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Tecnologias Ultilizadas
 ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+<img src="https://github.com/user-attachments/assets/ca697efd-e0a7-4591-9f42-76970a16d310" width="35" height="35">
+<img src="https://github.com/user-attachments/assets/0df3d268-d37b-44e3-be9d-40aee1c7d4f1" width="35" height="35">
+<img src="https://github.com/user-attachments/assets/c5470877-f635-4cbe-a5b4-813bba721d30" width="35" height="35">
+<img src="https://github.com/user-attachments/assets/0b5165e4-9e87-4ca0-8954-cc81a72e4514" width="35" height="35">
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 <img src="https://github.com/user-attachments/assets/5a445284-99ef-4a6b-8e27-fcdd06695f1d" width="35" height="35">
-<img src="https://github.com/user-attachments/assets/45797714-c2a3-41ba-986d-5faa15ec95a7" width="35" height="35">
-
+<img src="https://github.com/user-attachments/assets/9d92d746-b5f5-48c6-bb0e-88827c7b3a25" width="35" height="35">
+<img src="https://github.com/user-attachments/assets/b947a916-a4ea-4a53-a8fb-0b188913b3a4" width="35" height="35">
+<img src="https://github.com/user-attachments/assets/6a248392-6dc8-4d5c-b410-113487d164cf" width="35" height="35">
 
 # Backlog do Produto
 
@@ -68,7 +71,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
      
 # Burndown
-    |
+    
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
