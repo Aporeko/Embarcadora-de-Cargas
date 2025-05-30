@@ -1,9 +1,9 @@
-# ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS_(API 4° Semestre)
+# ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS_(API4°LOG)
 
-## Aprendizado por Projeto Integrador (API) 
+# Aprendizado por Projeto Integrador (API) 
 
- +  Este projeto tem como objetivo desenvolver uma plataforma funcional e bem documentada, capaz de analisar a eficiência dos terminais portuários, a qual será apresentada à comunidade acadêmica e, possivelmente, disponibilizada para uso público.
-+ A ferramenta buscará facilitar a avaliação dos processos operacionais e contribuir para a melhoria da gestão logística nos portos.
+ O projeto tem como objetivo desenvolver uma plataforma funcional e bem documentada, capaz de analisar a eficiência dos terminais portuários, a qual será apresentada à comunidade acadêmica e, possivelmente, disponibilizada para uso público.
+ A ferramenta buscará facilitar a avaliação dos processos operacionais e contribuir para a melhoria da gestão logística nos portos.
 
 # Índice
 
@@ -18,12 +18,12 @@
 
 # Projeto API
 
-+ Este projeto contribuirá para o desenvolviento de competencias tecnicas essenciais e promoverá o engajamento dos alunos com as questoes econômicas e políticas das cidades. 
+ Este projeto contribuirá para o desenvolviento de competencias tecnicas essenciais e promoverá o engajamento dos alunos com as questoes econômicas e políticas das cidades. 
 Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Objetivo do Projeto
 
-+ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
+ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -31,7 +31,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Product Owner |   Gabriel Rosa         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
 | Scrum Master  | Pedro Abreu |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroHFAbreu)     |
 | Team Member   | André Ribeiro             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Denise                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Team Member  | Denise Oliveira               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
 |  Team Member  | Fábia Mara                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FabiaMPF)   |
 |  Team Member  | Mariana Cássia      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mcsalme)          |
 
